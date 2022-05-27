@@ -156,6 +156,8 @@ nav {
     cursor: pointer;
         }
         
+
+        
 .bigbtn {
 	padding: 16px 60px 17px;
 	gap: 10px;
@@ -187,7 +189,10 @@ line-height: 26px;
 text-align: center;
 color: #FFFFFF;
 }
-        
+     
+.hover {
+margin-bottom:20px;
+}   
 </style>
 </head>
 <body>
@@ -248,16 +253,16 @@ color: #FFFFFF;
 				</div>
 				<div class="container">
 					<div class="row" align=center style="margin-bottom:5%;">
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-md-6 col-xl-3">
 							<img class="hover" id="p1" src="/img/ott1.png" alt="">
 						</div>
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-md-6 col-xl-3">
 							<img class="hover" id="p2" src="/img/ott2.png" alt="">
 						</div>
-						<div class="col-12 col-md-3">
+						<div class="col-12  col-md-6 col-xl-3">
 							<img class="hover" id="p3" src="/img/ott3.png" alt="">
 						</div>
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-md-6 col-xl-3">
 							<img class="hover" id="p4" src="/img/ott4.png" alt="">
 						</div>
 						<div align=center>
