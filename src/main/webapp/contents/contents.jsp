@@ -347,19 +347,19 @@ nav {
 			</div>
 		</nav>
 
-<div id="con3" align=center>
+<div id="con3" align=center style="margin-top:72px; padding-top:50px;">
 	<div class="row" align=center>
 		<div class="col-12" align=center>
 		<div>
-			<br><br><br><input type="text" placeholder="영화명으로 검색해보세요">
+			<input type="text" placeholder="영화명으로 검색해보세요" style="radius:5px;">
 		</div>
 			<div id="NFrank">넷플릭스 TOP 3~5</div>
 			<div id="WCrank">왓챠 TOP 3~5</div>
-			<div id="TVrank">디빙 TOP 3~5</div>
-			<div id="DPrank">디즈니플러스 TOP 3~5</div> 
+			<div id="TVrank">티빙 TOP 3~5</div>
+			<div id="DPrank">디즈니플러스 TOP 3~5</div>
 		</div>
 		</div>
-			</div>
+	</div>
 </div>
 <div id="con4" align=center>
 	<div class="container" align=center style="position: relative;">
