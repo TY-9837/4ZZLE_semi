@@ -24,104 +24,90 @@
 * {
 	box-sizing: border-box;
 	font-family: 'Noto Sans KR', sans-serif;
-	
 }
 
 /* div { */
 /*  	border: 1px solid crimson; */
 /* } */
-
 button {
-	border:none;
+	border: none;
 }
 
 #con1 {
 	height: 100%;
 	background-color: #121212;
 	padding-top: 200px;
-	padding-bottom:5%;
+	padding-bottom: 5%;
 }
 
 #main1 {
-margin-left:200px;
-width: 174px;
-height: 52px;
-
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 52px;
-color: #FFFFFF;
-margin-bottom:5%;
+	margin-left: 200px;
+	width: 174px;
+	height: 52px;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 52px;
+	color: #FFFFFF;
+	margin-bottom: 5%;
 }
 
 #main2 {
-margin-top: 13px;
-width: 100%;
-height: 100%;
-
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 26px;
-
-color: #FFFFFF;
+	margin-top: 13px;
+	width: 100%;
+	height: 100%;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 26px;
+	color: #FFFFFF;
 }
 
 #main3 {
-margin-top:60px;
+	margin-top: 60px;
 }
 
 #main4 {
-margin-top:160px;
-width: 408px;
-height: 52px;
-
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 52px;
-
-color: #FFFFFF;
+	margin-top: 160px;
+	width: 408px;
+	height: 52px;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 52px;
+	color: #FFFFFF;
 }
 
-#main5{
-margin-top:12px;
-width: 315px;
-height: 26px;
-
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 26px;
-
-text-align: center;
-
-color: #FFFFFF;
+#main5 {
+	margin-top: 12px;
+	width: 315px;
+	height: 26px;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+	color: #FFFFFF;
 }
 
 .qna {
-margin-top:49px;
-width: 138px;
-height: 46px;
-
-background: #7A07EE;
-border-radius: 12px;
-
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 26px;
-
-text-align: center;
-text-transform: uppercase;
-
-color: #FFFFFF;
+	margin-top: 49px;
+	width: 138px;
+	height: 46px;
+	background: #7A07EE;
+	border-radius: 12px;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFFFFF;
 }
 
 #con5 {
@@ -129,27 +115,27 @@ color: #FFFFFF;
 	background-color: #0c0c0c;
 }
 
-#footer1,#footer2,#footer3 {
+#footer1, #footer2, #footer3 {
 	margin-top: 38.43px;
-} 
-
-#footer2{
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 20px;
-color: #FFFFFF;
 }
 
-#footer3{
-font-family: 'Noto Sans KR';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 20px;
-text-align: right;
-color: #6F6C77;
+#footer2 {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+#footer3 {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: right;
+	color: #6F6C77;
 }
 
 .navbar-nav>li {
@@ -160,11 +146,11 @@ color: #6F6C77;
 }
 
 #login {
-	background-color:#7A07EE;
+	background-color: #7A07EE;
 }
 
 .centered {
-     margin-left:10rem;
+	margin-left: 10rem;
 }
 
 nav {
@@ -174,241 +160,244 @@ nav {
 .dropdown:hover .dropdown-menu {
 	display: block;
 	margin-top: 0;
-	
 }
 
-#mypage:hover{
-	background-color : #7A07EE;
+#mypage:hover {
+	background-color: #7A07EE;
 }
 
-#logout:hover{
-	background-color : #7A07EE;
+#logout:hover {
+	background-color: #7A07EE;
 }
 
 /*  div {  */
 /*  border:1px solid crimson;  */
 /*  }  */
-
-.ott{
-width:70%;
-height:150px;
-border-radius:12px;
-background-color:white;
-margin-bottom:2%;
+.ott {
+	width: 70%;
+	height: 150px;
+	border-radius: 12px;
+	background-color: white;
+	margin-bottom: 2%;
 }
 
-.ott div{
-float:left;
-height:100%;
+.ott div {
+	float: left;
+	height: 100%;
 }
 
-.left,.right {
-width:20%;
-align-items:center;
-display: flex; 
-justify-content:center;
-background-color:#222222;
+.left, .right {
+	width: 20%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background-color: #222222;
 }
 
 .left img {
-width:60px;
-height:60px;
+	width: 60px;
+	height: 60px;
 }
 
 .right img {
-width:45px;
-height:45px;
+	width: 45px;
+	height: 45px;
 }
 
 .right img:hover {
-cursor:pointer;
+	cursor: pointer;
 }
 
 .center {
-width: 60%;
-height: 100%;
-text-align:left;
+	width: 60%;
+	height: 100%;
+	text-align: left;
 }
 
-.top{
-height: 65%;
-padding-top: 8%;
-font-size:24px;
-color:#dedede;
-background-color: #222222;
+.top {
+	height: 65%;
+	padding-top: 8%;
+	font-size: 24px;
+	color: #dedede;
+	background-color: #222222;
 }
 
-.bottom{
-height: 35%;
-padding-top: 1%;
-color:#dedede;
-background-color: #222222;
+.bottom {
+	height: 35%;
+	padding-top: 1%;
+	color: #dedede;
+	background-color: #222222;
 }
 
-.center div{
-width:100%;
-height:50%;
+.center div {
+	width: 100%;
+	height: 50%;
 }
-
 </style>
 </head>
 
 <body>
-<nav class="navbar navbar-expand-md navbar-dark fixed-top">
-			<div class="container">
-				<a class="navbar-brand" href="/index.jsp" id=logo><img src="/img/logo2.png"></a>
-				<button class="navbar-toggler" type="button"
-					data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-					aria-controls="navbarCollapse" aria-expanded="false"
-					aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarCollapse">
-					<ol class="navbar-nav centered">
-						<li class="nav-item"><a class="nav-link"
-							aria-current="page" href="/index.jsp">홈</a></li>
-						<li class="nav-item"><a class="nav-link" href="/guide.jsp">가이드</a></li>
-						<li class="nav-item"><a class="nav-link active" href="#">MY퍼즐</a></li>
-						<li class="nav-item"><a class="nav-link" href="#">포즐피디아</a></li>
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top">
+		<div class="container">
+			<a class="navbar-brand" href="/index.jsp" id=logo><img
+				src="/img/logo2.png"></a>
+			<button class="navbar-toggler" type="button"
+				data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+				aria-controls="navbarCollapse" aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<ol class="navbar-nav centered">
+					<li class="nav-item"><a class="nav-link" aria-current="page"
+						href="/index.jsp">홈</a></li>
+					<li class="nav-item"><a class="nav-link" href="/guide.jsp">가이드</a></li>
+					<li class="nav-item"><a class="nav-link active" href="#">MY퍼즐</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">포즐피디아</a></li>
 
-					</ol>
-					<ol class="nav-pills navbar-nav w-100 justify-content-end centered" id=po>
-						<li class="nav-item"><a class="nav-link" aria-current="page" href="/list.board?cpage=1">고객센터</a></li>
-						<c:choose>
+				</ol>
+				<ol class="nav-pills navbar-nav w-100 justify-content-end centered"
+					id=po>
+					<li class="nav-item"><a class="nav-link" aria-current="page"
+						href="/list.board?cpage=1">고객센터</a></li>
+					<c:choose>
 						<c:when test="${loginID != null}">
-                        <li class="nav-item dropdown"><a
-									class="nav-link dropdown-toggle" href="#"
-									id="navbarDropdownMenuLink" role="button"
-									data-bs-toggle="dropdown" aria-expanded="false"
-									style="color: #EDEDED;">
-										${nickname}님 </a>
-									<ul class="dropdown-menu"
-										aria-labelledby="navbarDropdownMenuLink"
-										style="background-color: #121212;">
-										<c:choose>
+							<li class="nav-item dropdown"><a
+								class="nav-link dropdown-toggle" href="#"
+								id="navbarDropdownMenuLink" role="button"
+								data-bs-toggle="dropdown" aria-expanded="false"
+								style="color: #EDEDED;"> ${nickname}님 </a>
+								<ul class="dropdown-menu"
+									aria-labelledby="navbarDropdownMenuLink"
+									style="background-color: #121212;">
+									<c:choose>
 										<c:when test="${kakao == null}">
-										<li><a class="dropdown-item" id = "mypage" href="/myPage.member"
-											style="color: #EDEDED;">마이페이지</a></li>
+											<li><a class="dropdown-item" id="mypage"
+												href="/myPage.member" style="color: #EDEDED;">마이페이지</a></li>
 										</c:when>
-										</c:choose>
-										<li><a id="logout" class="dropdown-item" href="/logout.member"
-											style="color: #EDEDED;">로그아웃</a></li>
-									</ul></li>
+									</c:choose>
+									<li><a id="logout" class="dropdown-item"
+										href="/logout.member" style="color: #EDEDED;">로그아웃</a></li>
+								</ul></li>
 
-                        </c:when>
+						</c:when>
 						<c:otherwise>
-						<li class="nav-item"><a class="nav-link active" aria-current="page" href="/member/login.jsp" id = login>로그인</a></li>
+							<li class="nav-item"><a class="nav-link active"
+								aria-current="page" href="/member/login.jsp" id=login>로그인</a></li>
 						</c:otherwise>
-						</c:choose>
-					</ol>
+					</c:choose>
+				</ol>
+			</div>
+		</div>
+	</nav>
+	<div id="con1">
+		<div class="container">
+			<div id="main1">MY퍼즐</div>
+			<div id="main2" align=center>
+				<c:choose>
+					<c:when test="${memberOtt != null || bossOtt !=null}">
+						<div class="ott">
+							<div class="left">
+								<img src="/img/Group22.png">
+							</div>
+							<div class="center">
+								<div class="top">넷플릭스 퍼즐</div>
+								<div class="bottom">${member}${boss}으로이용중</div>
+							</div>
+							<div class="right">
+								<a href="/puzzle/mypuzzlenet.jsp"><img
+									src="/img/godetail.png"></a>
+							</div>
+						</div>
+					</c:when>
+					<c:when test="${memberOtt != null || bossOtt !=null}">
+						<div class="ott">
+							<div class="left">
+								<img src="/img/Group23.png">
+							</div>
+							<div class="center">
+								<div class="top">왓챠 퍼즐</div>
+								<div class="bottom">으로 이용중</div>
+							</div>
+							<div class="right">
+								<a href="/puzzle/mypuzzlewat.jsp"><img
+									src="/img/godetail.png"></a>
+							</div>
+						</div>
+					</c:when>
+					<c:when test="${memberOtt != null || bossOtt !=null}">
+					<div class="ott">
+						<div class="left">
+							<img src="/img/Group24.png">
+						</div>
+						<div class="center">
+							<div class="top">티빙 퍼즐</div>
+							<div class="bottom">으로 이용중</div>
+						</div>
+						<div class="right">
+							<a href="/puzzle/mypuzzletv.jsp"><img src="/img/godetail.png"></a>
+						</div>
+					</div>
+					</c:when>
+						<c:when test="${memberOtt != null || bossOtt !=null}">
+					<div class="ott">
+						<div class="left">
+							<img src="/img/Group25.png">
+						</div>
+						<div class="center">
+							<div class="top">디즈니+ 퍼즐</div>
+							<div class="bottom">으로 이용중</div>
+						</div>
+						<div class="right">
+							<a href="/puzzle/mypuzzledp.jsp"><img src="/img/godetail.png"></a>
+						</div>
+					</div>
+					</c:when>
+				</c:choose>
+				<div class="ott">
+					<div class="left">
+						<img src="/img/puzzle1.png" style="width: 120px; height: 80px;">
+					</div>
+					<div class="center">
+						<div class="top">퍼즐 추가</div>
+						<div class="bottom">새로운 퍼즐을 추가해보세요!</div>
+					</div>
+					<div class="right">
+						<a href="/puzzle/addpuzzle.jsp"><img src="/img/godetail.png"></a>
+					</div>
 				</div>
 			</div>
-		</nav>
-<div id="con1">
-	<div class="container">
-				<div id="main1">
-					MY퍼즐
-				</div>
-				<div id="main2" align=center>			
-				<div class="ott">
-				<div class="left">
-				<img src="/img/Group22.png">
-				</div>
-				<div class="center">
-				<div class="top">넷플릭스 퍼즐</div>
-				<div class="bottom">${member}${boss}으로 이용중</div>
-				</div>
-				<div class="right">
-				<a href="/puzzle/mypuzzlenet.jsp"><img src="/img/godetail.png"></a>
-				</div>
-				</div>
-				<div class="ott">
-				<div class="left">
-				<img src="/img/Group23.png">
-				</div>
-				<div class="center">
-				<div class="top">왓챠 퍼즐</div>
-				<div class="bottom">으로 이용중</div>
-				</div>
-				<div class="right">
-				<a href="/puzzle/mypuzzlewat.jsp"><img src="/img/godetail.png"></a>
-				</div>
-				</div>
-				<div class="ott">
-				<div class="left">
-				<img src="/img/Group24.png">
-				</div>
-				<div class="center">
-				<div class="top">티빙 퍼즐</div>
-				<div class="bottom">으로 이용중</div>
-				</div>
-				<div class="right">
-				<a href="/puzzle/mypuzzletv.jsp"><img src="/img/godetail.png"></a>
-				</div>
-				</div>
-				<div class="ott">
-				<div class="left">
-				<img src="/img/Group25.png">
-				</div>
-				<div class="center">
-				<div class="top">디즈니+ 퍼즐</div>
-				<div class="bottom">으로 이용중</div>
-				</div>
-				<div class="right">
-				<a href="/puzzle/mypuzzledp.jsp"><img src="/img/godetail.png"></a>
-				</div>
-				</div>
-				<div class="ott">
-				<div class="left">
-				<img src="/img/puzzle1.png" style="width:120px; height:80px;">
-				</div>
-				<div class="center">
-				<div class="top">퍼즐 추가</div>
-				<div class="bottom">새로운 퍼즐을 추가해보세요!</div>
-				</div>
-				<div class="right">
-				<a href="/puzzle/addpuzzle.jsp"><img src="/img/godetail.png"></a>
-				</div>
-				</div>
-				</div>
-	</div>
-</div>
-<div class="col-12 d-none d-md-block">
-<div id="con5" align=center>
-	<div class="container">
-	<div class="row">
-		<div class="col-6" id="footer1" align=left>
-			<img src="/img/group30.png">
-		</div>
-		<div class="col-1" id="footer2">
-		이용약관	
-		</div>
-		<div class="col-2" id="footer2">
-		개인정보 처리방침
-		</div>
-		<div class="col-1" id="footer2">
-		<a href="/list.qnaboard?cpage=1" style="text-decoration:none; color:white;">1:1 문의</a>
-		</div>
-		<div class="col-2" id="footer3">
-		©2022 Fozzle, Inc.
 		</div>
 	</div>
-	</div>
-</div>
-</div>
-<div class="col-12 d-block d-md-none">
-<div id="con5" align=center>
-	<div class="container">
-	<div class="row">
-		<div class="col-6" id="footer1" align=left>
-			<img src="/img/group30.png">
+	<div class="col-12 d-none d-md-block">
+		<div id="con5" align=center>
+			<div class="container">
+				<div class="row">
+					<div class="col-6" id="footer1" align=left>
+						<img src="/img/group30.png">
+					</div>
+					<div class="col-1" id="footer2">이용약관</div>
+					<div class="col-2" id="footer2">개인정보 처리방침</div>
+					<div class="col-1" id="footer2">
+						<a href="/list.qnaboard?cpage=1"
+							style="text-decoration: none; color: white;">1:1 문의</a>
+					</div>
+					<div class="col-2" id="footer3">©2022 Fozzle, Inc.</div>
+				</div>
+			</div>
 		</div>
-		<div class="col-6" id="footer3">
-		©2022 Fozzle, Inc.
+	</div>
+	<div class="col-12 d-block d-md-none">
+		<div id="con5" align=center>
+			<div class="container">
+				<div class="row">
+					<div class="col-6" id="footer1" align=left>
+						<img src="/img/group30.png">
+					</div>
+					<div class="col-6" id="footer3">©2022 Fozzle, Inc.</div>
+				</div>
+			</div>
 		</div>
 	</div>
-	</div>
-</div>
-</div>
 </body>
 </html>
