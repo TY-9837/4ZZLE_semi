@@ -407,7 +407,7 @@ nav {
 							aria-current="page" href="/index.jsp">홈</a></li>
 						<li class="nav-item"><a class="nav-link" href="/guide.jsp">가이드</a></li>
 						<li class="nav-item"><a class="nav-link" href="./ifPartyExists.party">MY퍼즐</a></li>
-						<li class="nav-item"><a class="nav-link" href="#">포즐피디아</a></li>
+						<li class="nav-item"><a class="nav-link" href="/contents/contents.jsp">포즐피디아</a></li>
 
 					</ol>
 					<ol class="nav-pills navbar-nav w-100 justify-content-end centered" id=po>
